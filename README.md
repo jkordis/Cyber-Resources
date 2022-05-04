@@ -5,9 +5,13 @@ A list of sites and resources I've gathered
 
 ## Red Team
 [Hack The Box](https://www.hackthebox.eu/) - Red Team Practice
+
 [Dave Rogers Pentesting Lessons](https://davyrogers.uk/courses.html)
+
 [OSCP Survival Guide](http://web.archive.org/web/20171017213738/https://github.com/frizb/OSCP-Survival-Guide#http-enumeration)
+
 ["OSCP Like" Hack The Box machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
+
 
 ## Blue Team
 [Let's Defend](https://app.letsdefend.io/) - Blue Team Practice
